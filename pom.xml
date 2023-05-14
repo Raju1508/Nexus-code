@@ -40,7 +40,7 @@
 <connection>scm:svn:http://192.168.33.11:8081/subversion/</connection>
 <developerConnection>scm:svn:http://192.168.33.11:8081/subversion/</developerConnection>
 </scm>
-  #hi this is raju
+  #hi this is raju  ela unnav
 <distributionManagement>
 <repository>
 <id>package</id>
